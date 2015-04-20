@@ -1,3 +1,5 @@
+This is working repo. See scene/show live on: http://martinsantome.github.io/eparlament/
+
 SmartLAMENT APP plugin (presentation marketing splash-scena)
 ============
 
